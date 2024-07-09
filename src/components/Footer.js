@@ -1,7 +1,10 @@
 function Footer() {
     return (
         <div className="copyright">
-            <p>Made with love by Myself</p>
+            <h3 style={{color:"green"}}>
+                Goodbye from Footer. Made with love by Myself.
+            </h3>
+            <p style={{fontWeight: "bold"}}>amerihn</p>
         </div>
     );
 };

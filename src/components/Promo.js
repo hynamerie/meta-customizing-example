@@ -12,8 +12,8 @@
 // };
 function Promo(props) {
     const styles = {
-        color: "tomato",
-        fontSize: "40px"
+        color: "blue",
+        fontSize: "20px"
     }
     return (
         <div className="promo-section">
